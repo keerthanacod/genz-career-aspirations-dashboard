@@ -38,5 +38,5 @@ A multi-platform data analytics project utilizing **Power BI Desktop** and **Mic
 
 ## 🛠️ Tools & Technologies
 
-* **Power BI Desktop:** Dynamic cross-filtering, multi-dashboard layout, and interactive slicers
-* **Microsoft Excel:** Data aggregation, Pivot Tables, customized chart visuals, and initial KPI modeling
+* **Power BI Desktop:** Dynamic cross-filtering, multi-dashboard layout, and interactive slicers.
+* **Microsoft Excel:** Data aggregation, Pivot Tables, customized chart visuals, and initial KPI modeling.
